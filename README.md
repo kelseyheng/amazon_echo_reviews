@@ -4,4 +4,5 @@
 Dataset was obtained from https://www.kaggle.com/sid321axn/amazon-alexa-reviews
 
 Sentiment analysis and topic modelling of Amazon Echo Reviews, specifically Echo Plus, Echo and Echo Dot.
-Methods used: Vader and LDA.
+
+Methods used: VADER and LDA.
